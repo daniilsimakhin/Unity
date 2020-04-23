@@ -717,9 +717,9 @@ TextureImporter:
       name: "\u0439_22"
       rect:
         serializedVersion: 2
-        x: 18
+        x: 16
         y: 14
-        width: 94
+        width: 96
         height: 97
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
