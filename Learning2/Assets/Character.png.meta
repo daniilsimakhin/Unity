@@ -1,0 +1,1471 @@
+fileFormatVersion: 2
+guid: 08625b3ddfc51a84e886cf300bf3fe92
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5942157333388502086
+    second: eric__cobra__battler_rpg_maker_mv_by_retrospriteresources_dahajfl-fullview_0
+  - first:
+      213: -18122570904956278
+    second: eric__cobra__battler_rpg_maker_mv_by_retrospriteresources_dahajfl-fullview_1
+  - first:
+      213: 1308494443161152913
+    second: eric__cobra__battler_rpg_maker_mv_by_retrospriteresources_dahajfl-fullview_2
+  - first:
+      213: 8015744164112567956
+    second: eric__cobra__battler_rpg_maker_mv_by_retrospriteresources_dahajfl-fullview_3
+  - first:
+      213: -8843953635404456270
+    second: eric__cobra__battler_rpg_maker_mv_by_retrospriteresources_dahajfl-fullview_4
+  - first:
+      213: 6196273885310366509
+    second: eric__cobra__battler_rpg_maker_mv_by_retrospriteresources_dahajfl-fullview_5
+  - first:
+      213: -6831737474633112690
+    second: eric__cobra__battler_rpg_maker_mv_by_retrospriteresources_dahajfl-fullview_6
+  - first:
+      213: -6865969100249630762
+    second: eric__cobra__battler_rpg_maker_mv_by_retrospriteresources_dahajfl-fullview_7
+  - first:
+      213: 2143304510936652207
+    second: eric__cobra__battler_rpg_maker_mv_by_retrospriteresources_dahajfl-fullview_8
+  - first:
+      213: -2483732319333594493
+    second: eric__cobra__battler_rpg_maker_mv_by_retrospriteresources_dahajfl-fullview_9
+  - first:
+      213: -2276566418419153879
+    second: eric__cobra__battler_rpg_maker_mv_by_retrospriteresources_dahajfl-fullview_10
+  - first:
+      213: 5202645296983375086
+    second: eric__cobra__battler_rpg_maker_mv_by_retrospriteresources_dahajfl-fullview_11
+  - first:
+      213: 4800441049057292577
+    second: eric__cobra__battler_rpg_maker_mv_by_retrospriteresources_dahajfl-fullview_12
+  - first:
+      213: 8373420717674467435
+    second: eric__cobra__battler_rpg_maker_mv_by_retrospriteresources_dahajfl-fullview_13
+  - first:
+      213: 7845321716216398256
+    second: eric__cobra__battler_rpg_maker_mv_by_retrospriteresources_dahajfl-fullview_14
+  - first:
+      213: -3974161125610290092
+    second: eric__cobra__battler_rpg_maker_mv_by_retrospriteresources_dahajfl-fullview_15
+  - first:
+      213: -6900518672602179618
+    second: eric__cobra__battler_rpg_maker_mv_by_retrospriteresources_dahajfl-fullview_16
+  - first:
+      213: 3890592605143571140
+    second: eric__cobra__battler_rpg_maker_mv_by_retrospriteresources_dahajfl-fullview_17
+  - first:
+      213: -4903919197685494736
+    second: eric__cobra__battler_rpg_maker_mv_by_retrospriteresources_dahajfl-fullview_18
+  - first:
+      213: 8019484733638326918
+    second: eric__cobra__battler_rpg_maker_mv_by_retrospriteresources_dahajfl-fullview_19
+  - first:
+      213: 3815826715120461359
+    second: eric__cobra__battler_rpg_maker_mv_by_retrospriteresources_dahajfl-fullview_20
+  - first:
+      213: -1759486540130037949
+    second: eric__cobra__battler_rpg_maker_mv_by_retrospriteresources_dahajfl-fullview_21
+  - first:
+      213: -778764769041517098
+    second: eric__cobra__battler_rpg_maker_mv_by_retrospriteresources_dahajfl-fullview_22
+  - first:
+      213: 7748884270518674365
+    second: eric__cobra__battler_rpg_maker_mv_by_retrospriteresources_dahajfl-fullview_23
+  - first:
+      213: -5074851788647311780
+    second: eric__cobra__battler_rpg_maker_mv_by_retrospriteresources_dahajfl-fullview_24
+  - first:
+      213: 9210642891693700858
+    second: eric__cobra__battler_rpg_maker_mv_by_retrospriteresources_dahajfl-fullview_25
+  - first:
+      213: -463361645875969766
+    second: eric__cobra__battler_rpg_maker_mv_by_retrospriteresources_dahajfl-fullview_26
+  - first:
+      213: -6106899708748139486
+    second: eric__cobra__battler_rpg_maker_mv_by_retrospriteresources_dahajfl-fullview_27
+  - first:
+      213: 4851009714566565775
+    second: eric__cobra__battler_rpg_maker_mv_by_retrospriteresources_dahajfl-fullview_28
+  - first:
+      213: 6925437249122201180
+    second: eric__cobra__battler_rpg_maker_mv_by_retrospriteresources_dahajfl-fullview_29
+  - first:
+      213: 2859052798278861868
+    second: eric__cobra__battler_rpg_maker_mv_by_retrospriteresources_dahajfl-fullview_30
+  - first:
+      213: 171177730984661473
+    second: eric__cobra__battler_rpg_maker_mv_by_retrospriteresources_dahajfl-fullview_31
+  - first:
+      213: 2223257257238659845
+    second: eric__cobra__battler_rpg_maker_mv_by_retrospriteresources_dahajfl-fullview_32
+  - first:
+      213: 603967252273737687
+    second: eric__cobra__battler_rpg_maker_mv_by_retrospriteresources_dahajfl-fullview_33
+  - first:
+      213: -8228263006248596223
+    second: eric__cobra__battler_rpg_maker_mv_by_retrospriteresources_dahajfl-fullview_34
+  - first:
+      213: -5419563367692274887
+    second: eric__cobra__battler_rpg_maker_mv_by_retrospriteresources_dahajfl-fullview_35
+  - first:
+      213: 6147108090347824818
+    second: eric__cobra__battler_rpg_maker_mv_by_retrospriteresources_dahajfl-fullview_36
+  - first:
+      213: -901119098280806452
+    second: eric__cobra__battler_rpg_maker_mv_by_retrospriteresources_dahajfl-fullview_37
+  - first:
+      213: 4667925511960027516
+    second: eric__cobra__battler_rpg_maker_mv_by_retrospriteresources_dahajfl-fullview_38
+  - first:
+      213: 7917823113108718919
+    second: eric__cobra__battler_rpg_maker_mv_by_retrospriteresources_dahajfl-fullview_39
+  - first:
+      213: -8789852686786344876
+    second: eric__cobra__battler_rpg_maker_mv_by_retrospriteresources_dahajfl-fullview_40
+  - first:
+      213: 2696673010059794762
+    second: eric__cobra__battler_rpg_maker_mv_by_retrospriteresources_dahajfl-fullview_41
+  - first:
+      213: 8325702119745858312
+    second: eric__cobra__battler_rpg_maker_mv_by_retrospriteresources_dahajfl-fullview_42
+  - first:
+      213: 1742196197559987876
+    second: eric__cobra__battler_rpg_maker_mv_by_retrospriteresources_dahajfl-fullview_43
+  - first:
+      213: 5939089129972675511
+    second: eric__cobra__battler_rpg_maker_mv_by_retrospriteresources_dahajfl-fullview_44
+  - first:
+      213: 4089958623727045786
+    second: eric__cobra__battler_rpg_maker_mv_by_retrospriteresources_dahajfl-fullview_45
+  - first:
+      213: -1759755409194292250
+    second: eric__cobra__battler_rpg_maker_mv_by_retrospriteresources_dahajfl-fullview_46
+  - first:
+      213: -887472164226826529
+    second: eric__cobra__battler_rpg_maker_mv_by_retrospriteresources_dahajfl-fullview_47
+  - first:
+      213: 5029878212914382814
+    second: eric__cobra__battler_rpg_maker_mv_by_retrospriteresources_dahajfl-fullview_48
+  - first:
+      213: 4081499165897862543
+    second: eric__cobra__battler_rpg_maker_mv_by_retrospriteresources_dahajfl-fullview_49
+  - first:
+      213: -3122569223185823264
+    second: eric__cobra__battler_rpg_maker_mv_by_retrospriteresources_dahajfl-fullview_50
+  - first:
+      213: 4357455340997748329
+    second: eric__cobra__battler_rpg_maker_mv_by_retrospriteresources_dahajfl-fullview_51
+  - first:
+      213: 8599429387131437115
+    second: eric__cobra__battler_rpg_maker_mv_by_retrospriteresources_dahajfl-fullview_52
+  - first:
+      213: 2235754218454025250
+    second: eric__cobra__battler_rpg_maker_mv_by_retrospriteresources_dahajfl-fullview_53
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 75
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: eric__cobra__battler_rpg_maker_mv_by_retrospriteresources_dahajfl-fullview_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 569
+        width: 65
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef2e6313cab8f741839a861a1da7716
+      internalID: 5942157333388502086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eric__cobra__battler_rpg_maker_mv_by_retrospriteresources_dahajfl-fullview_1
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 567
+        width: 69
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ccf967367062694aa9b19ac7e4bbf3a
+      internalID: -18122570904956278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eric__cobra__battler_rpg_maker_mv_by_retrospriteresources_dahajfl-fullview_2
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 567
+        width: 69
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef67a86f767370b4d845e126b9025d7f
+      internalID: 1308494443161152913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eric__cobra__battler_rpg_maker_mv_by_retrospriteresources_dahajfl-fullview_3
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 567
+        width: 80
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318842f9a5a38f749a91c9606cb3b16a
+      internalID: 8015744164112567956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eric__cobra__battler_rpg_maker_mv_by_retrospriteresources_dahajfl-fullview_4
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 567
+        width: 114
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed57d9ea7a87ed94587908ee6efc23bf
+      internalID: -8843953635404456270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eric__cobra__battler_rpg_maker_mv_by_retrospriteresources_dahajfl-fullview_5
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 567
+        width: 76
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99aa137ddc6d14948aaa160ca05b0a92
+      internalID: 6196273885310366509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eric__cobra__battler_rpg_maker_mv_by_retrospriteresources_dahajfl-fullview_6
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 569
+        width: 73
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d47fff69f34bd429ebf997af4f3c60
+      internalID: -6831737474633112690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eric__cobra__battler_rpg_maker_mv_by_retrospriteresources_dahajfl-fullview_7
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 569
+        width: 66
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2852c4d9d864a7047a202ffc9a6adac8
+      internalID: -6865969100249630762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eric__cobra__battler_rpg_maker_mv_by_retrospriteresources_dahajfl-fullview_8
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 569
+        width: 82
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c11685ce3302046b4e3401814be956
+      internalID: 2143304510936652207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eric__cobra__battler_rpg_maker_mv_by_retrospriteresources_dahajfl-fullview_9
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 453
+        width: 69
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5279d1e7fc21a6469b3858e2fd52b0f
+      internalID: -2483732319333594493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eric__cobra__battler_rpg_maker_mv_by_retrospriteresources_dahajfl-fullview_10
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 453
+        width: 69
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3488aba911406b84cb0935af8d83b6fd
+      internalID: -2276566418419153879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eric__cobra__battler_rpg_maker_mv_by_retrospriteresources_dahajfl-fullview_11
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 453
+        width: 69
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea43748330637b4f97eb2317572025d
+      internalID: 5202645296983375086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eric__cobra__battler_rpg_maker_mv_by_retrospriteresources_dahajfl-fullview_12
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 453
+        width: 78
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be226e6aff5d9a04fbc399560a7c525e
+      internalID: 4800441049057292577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eric__cobra__battler_rpg_maker_mv_by_retrospriteresources_dahajfl-fullview_13
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 453
+        width: 85
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e9d6ff426316fc49a1160c9fe0258cb
+      internalID: 8373420717674467435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eric__cobra__battler_rpg_maker_mv_by_retrospriteresources_dahajfl-fullview_14
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 453
+        width: 87
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0abada1036e87504d805ad78605b5939
+      internalID: 7845321716216398256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eric__cobra__battler_rpg_maker_mv_by_retrospriteresources_dahajfl-fullview_15
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 453
+        width: 76
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa8cd17bf16e7584fae4e31143b90947
+      internalID: -3974161125610290092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eric__cobra__battler_rpg_maker_mv_by_retrospriteresources_dahajfl-fullview_16
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 453
+        width: 75
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df4c1ea70d41fa43a6029568f50adcb
+      internalID: -6900518672602179618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eric__cobra__battler_rpg_maker_mv_by_retrospriteresources_dahajfl-fullview_17
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 453
+        width: 78
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb2cad97f6dfaf49ba0bf2f9e1dac25
+      internalID: 3890592605143571140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eric__cobra__battler_rpg_maker_mv_by_retrospriteresources_dahajfl-fullview_18
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 340
+        width: 67
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ea03ec34ffc094c816b5db81371606
+      internalID: -4903919197685494736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eric__cobra__battler_rpg_maker_mv_by_retrospriteresources_dahajfl-fullview_19
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 340
+        width: 67
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e3fc678f452c44183d843083a98f47
+      internalID: 8019484733638326918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eric__cobra__battler_rpg_maker_mv_by_retrospriteresources_dahajfl-fullview_20
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 341
+        width: 67
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b43ee5198f51574fb76d9f1c95fd7e5
+      internalID: 3815826715120461359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eric__cobra__battler_rpg_maker_mv_by_retrospriteresources_dahajfl-fullview_21
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 341
+        width: 76
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f20baae476a890d42953969bc6dce606
+      internalID: -1759486540130037949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eric__cobra__battler_rpg_maker_mv_by_retrospriteresources_dahajfl-fullview_22
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 341
+        width: 76
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac00f1a1008c1d4c8039738f466d8b9
+      internalID: -778764769041517098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eric__cobra__battler_rpg_maker_mv_by_retrospriteresources_dahajfl-fullview_23
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 341
+        width: 76
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc28f830fab58848ba530a0c639810a
+      internalID: 7748884270518674365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eric__cobra__battler_rpg_maker_mv_by_retrospriteresources_dahajfl-fullview_24
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 341
+        width: 89
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbac613899755cf4abb3609af24c5e9a
+      internalID: -5074851788647311780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eric__cobra__battler_rpg_maker_mv_by_retrospriteresources_dahajfl-fullview_25
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 341
+        width: 89
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d058801268a9c3643887b3da5f9c6235
+      internalID: 9210642891693700858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eric__cobra__battler_rpg_maker_mv_by_retrospriteresources_dahajfl-fullview_26
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 341
+        width: 87
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af83005d120b7e4ab365fcb34b38501
+      internalID: -463361645875969766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eric__cobra__battler_rpg_maker_mv_by_retrospriteresources_dahajfl-fullview_27
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 227
+        width: 65
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e0f94f7331c79d4bb65fd6e1d4b427a
+      internalID: -6106899708748139486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eric__cobra__battler_rpg_maker_mv_by_retrospriteresources_dahajfl-fullview_28
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 227
+        width: 65
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de1e9ce40258ce47a7c6f25b5ff1e28
+      internalID: 4851009714566565775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eric__cobra__battler_rpg_maker_mv_by_retrospriteresources_dahajfl-fullview_29
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 227
+        width: 64
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c193bb276752d4c88d527b94445cad
+      internalID: 6925437249122201180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eric__cobra__battler_rpg_maker_mv_by_retrospriteresources_dahajfl-fullview_30
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 227
+        width: 78
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ba0e243170c174e869420757cb037d
+      internalID: 2859052798278861868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eric__cobra__battler_rpg_maker_mv_by_retrospriteresources_dahajfl-fullview_31
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 227
+        width: 78
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb9a233434cffbe4689dd6a812f8b74b
+      internalID: 171177730984661473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eric__cobra__battler_rpg_maker_mv_by_retrospriteresources_dahajfl-fullview_32
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 227
+        width: 78
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d7405ef826d5954d939c8800647cb64
+      internalID: 2223257257238659845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eric__cobra__battler_rpg_maker_mv_by_retrospriteresources_dahajfl-fullview_33
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 227
+        width: 83
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17555503748ca5c4b989d00a3b2909d3
+      internalID: 603967252273737687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eric__cobra__battler_rpg_maker_mv_by_retrospriteresources_dahajfl-fullview_34
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 227
+        width: 83
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2260284a98c02d54d82d42635a11b88b
+      internalID: -8228263006248596223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eric__cobra__battler_rpg_maker_mv_by_retrospriteresources_dahajfl-fullview_35
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 227
+        width: 83
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a91dd3f2f8fbe4abf21ac45848d0a9
+      internalID: -5419563367692274887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eric__cobra__battler_rpg_maker_mv_by_retrospriteresources_dahajfl-fullview_36
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 112
+        width: 73
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e3d22ec47d83cd42bb90c1614e75fc8
+      internalID: 6147108090347824818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eric__cobra__battler_rpg_maker_mv_by_retrospriteresources_dahajfl-fullview_37
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 112
+        width: 75
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d0a3d245b233145b14d874646b7b28
+      internalID: -901119098280806452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eric__cobra__battler_rpg_maker_mv_by_retrospriteresources_dahajfl-fullview_38
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 112
+        width: 73
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8667400157559941b571a9dda500cc5
+      internalID: 4667925511960027516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eric__cobra__battler_rpg_maker_mv_by_retrospriteresources_dahajfl-fullview_39
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 112
+        width: 90
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 660b8c451b837f24291bbfd5e838366a
+      internalID: 7917823113108718919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eric__cobra__battler_rpg_maker_mv_by_retrospriteresources_dahajfl-fullview_40
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 112
+        width: 90
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bddbb4091288c484894dc3365e19126d
+      internalID: -8789852686786344876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eric__cobra__battler_rpg_maker_mv_by_retrospriteresources_dahajfl-fullview_41
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 112
+        width: 89
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af8d3ac399e7cfb40a516a8d4592bb7d
+      internalID: 2696673010059794762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eric__cobra__battler_rpg_maker_mv_by_retrospriteresources_dahajfl-fullview_42
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 112
+        width: 105
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a03cd041e940fa2438bb95a4ce427c8e
+      internalID: 8325702119745858312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eric__cobra__battler_rpg_maker_mv_by_retrospriteresources_dahajfl-fullview_43
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 112
+        width: 107
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f36dced60bc3847ba3255529898da0
+      internalID: 1742196197559987876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eric__cobra__battler_rpg_maker_mv_by_retrospriteresources_dahajfl-fullview_44
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 112
+        width: 105
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c28b6aad881c3cc438d45bbaa2823205
+      internalID: 5939089129972675511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eric__cobra__battler_rpg_maker_mv_by_retrospriteresources_dahajfl-fullview_45
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 0
+        width: 85
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8e9b00920f172541bbe5ca092a29ccf
+      internalID: 4089958623727045786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eric__cobra__battler_rpg_maker_mv_by_retrospriteresources_dahajfl-fullview_46
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 0
+        width: 85
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe671d0cd1618b45ae9939f6ec3fef0
+      internalID: -1759755409194292250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eric__cobra__battler_rpg_maker_mv_by_retrospriteresources_dahajfl-fullview_47
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 0
+        width: 85
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b9df875d977b9244b6817130188a3ab
+      internalID: -887472164226826529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eric__cobra__battler_rpg_maker_mv_by_retrospriteresources_dahajfl-fullview_48
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 0
+        width: 69
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d5f634367d915428103a6b0d3f65a1
+      internalID: 5029878212914382814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eric__cobra__battler_rpg_maker_mv_by_retrospriteresources_dahajfl-fullview_49
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 0
+        width: 82
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d8c43da01c04a24eb4dded03aad59e1
+      internalID: 4081499165897862543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eric__cobra__battler_rpg_maker_mv_by_retrospriteresources_dahajfl-fullview_50
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 0
+        width: 71
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a190ef349f7e5ca46a3ad1fb127993f5
+      internalID: -3122569223185823264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eric__cobra__battler_rpg_maker_mv_by_retrospriteresources_dahajfl-fullview_51
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 0
+        width: 105
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d3ee96173abf243ac0dff5f418c52d
+      internalID: 4357455340997748329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eric__cobra__battler_rpg_maker_mv_by_retrospriteresources_dahajfl-fullview_52
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 0
+        width: 107
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e094230fa91048844b66d91c06920a76
+      internalID: 8599429387131437115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eric__cobra__battler_rpg_maker_mv_by_retrospriteresources_dahajfl-fullview_53
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 0
+        width: 105
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a66923547a6de4d8977e1bc4075eab
+      internalID: 2235754218454025250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
