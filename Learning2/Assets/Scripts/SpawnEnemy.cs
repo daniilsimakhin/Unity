@@ -2,23 +2,20 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-[RequireComponent (typeof (Transform))]
 public class SpawnEnemy : MonoBehaviour
 {
     [SerializeField] private Transform[] _points;
     [SerializeField] private GameObject _enemy;
-    private Transform _transform;
     private int _currentPoint = 0;
 
     private void Start()
     {
-        _transform = GetComponent<Transform>();
-        _points = new Transform[_transform.childCount];
+        _points = new Transform[GetComponent<Transform>().childCount];
         SettingPoint();
-        StartCoroutine(Initialization());
+        StartCoroutine(Spawn());
     }
 
-    private IEnumerator Initialization()
+    private IEnumerator Spawn()
     {
         while (_currentPoint < _points.Length)
         {
@@ -30,9 +27,9 @@ public class SpawnEnemy : MonoBehaviour
 
     private void SettingPoint()
     {
-        for (int i = 0; i < _transform.childCount; i++)
+        for (int i = 0; i < GetComponent<Transform>().childCount; i++)
         {
-            _points[i] = _transform.GetChild(i);
+            _points[i] = GetComponent<Transform>().GetChild(i);
         }
     }
 
