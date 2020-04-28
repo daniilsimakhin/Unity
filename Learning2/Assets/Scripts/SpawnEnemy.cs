@@ -10,7 +10,7 @@ public class SpawnEnemy : MonoBehaviour
 
     private void Start()
     {
-        _points = new Transform[GetComponent<Transform>().childCount];
+        _points = new Transform[transform.childCount];
         SettingPoint();
         StartCoroutine(Spawn());
     }
@@ -27,9 +27,9 @@ public class SpawnEnemy : MonoBehaviour
 
     private void SettingPoint()
     {
-        for (int i = 0; i < GetComponent<Transform>().childCount; i++)
+        for (int i = 0; i < transform.childCount; i++)
         {
-            _points[i] = GetComponent<Transform>().GetChild(i);
+            _points[i] = transform.GetChild(i);
         }
     }
 
